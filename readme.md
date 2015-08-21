@@ -15,3 +15,5 @@ Laravel is accessible, yet powerful, providing powerful tools needed for large, 
 Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
 
 ## Creating your very first migration 2015
+
+This branch has added/edited 2 new user fields **username** and **fullname**
