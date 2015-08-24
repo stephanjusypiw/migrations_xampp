@@ -16,5 +16,5 @@ Documentation for the framework can be found on the [Laravel website](http://lar
 
 ## Creating your very first migration 2015
 
-This branch has added/edited 2 new user fields **username** and **fullname**
-Also used Tinker to add a dummy user.
+This branch created a **UserTableSeeder** file with 2 new user objects.  The 2 objects
+were persisted to the database.
