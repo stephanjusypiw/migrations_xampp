@@ -16,5 +16,4 @@ Documentation for the framework can be found on the [Laravel website](http://lar
 
 ## Creating your very first migration 2015
 
-This branch created a **UserTableSeeder** file with 2 new user objects.  The 2 objects
-were persisted to the database.
+This branch used the **ModelFactory**  with 50 users added using **Faker**.
