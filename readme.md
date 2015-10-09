@@ -12,3 +12,8 @@
 Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
 
 ## Creating your very first migration 2015 - Stephanj
+
+Worked completed so far:
+
+1. 07-Starting Migrations-Xampp
+2. 08-Changing User Fields
